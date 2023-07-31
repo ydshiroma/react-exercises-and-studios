@@ -1,7 +1,14 @@
 .choresText {
-   color: black;
+   color: blue;
+   font-size: large;
+   font-family: "Papyrus", fantasy;
+   font-style: italic;
+   text-align: left;
 }
 
 .choresHeading {
-   color: black;
+   color: blueviolet;
+   font-size: larger;
+   font-family: "Papyrus", fantasy;
+   text-decoration: underline;
 }

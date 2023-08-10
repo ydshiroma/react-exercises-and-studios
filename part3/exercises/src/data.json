@@ -1,0 +1,27 @@
+{ "openings": [
+    {
+        "name": "Vienna gambit",
+        "first-move": "e4",
+        "color": "white",
+        "difficulty": "intermediate"
+    },
+    {
+        "name": "Kings Indian",
+        "first-move": "variable",
+        "color": "black",
+        "difficulty": "beginner"
+    },
+    {
+        "name": "Sicilian",
+        "first-move": "e4",
+        "color": "black",
+        "difficulty": "advanced"
+    },
+    {
+        "name": "Caro Kann",
+        "first-move": "e4",
+        "color": "black",
+        "difficulty": "beginner"
+    }
+]
+}
